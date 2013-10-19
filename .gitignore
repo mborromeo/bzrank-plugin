@@ -1,0 +1,4 @@
+.libs
+bzrank.la
+bzrank_la-bzrank.lo
+bzrank_la-bzrank.o
